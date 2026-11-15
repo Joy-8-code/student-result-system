@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/students.json
+class_report.txt
+.idea/
